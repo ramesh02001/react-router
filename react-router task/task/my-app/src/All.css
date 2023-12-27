@@ -1,0 +1,35 @@
+.container{
+    display: flex;
+         flex-wrap: wrap;
+         margin-top: 30px;
+         width: 100%;
+        
+        
+  }
+
+  .card{
+    height: 300px;
+    width: 310px;
+    background-color:rgb(237, 232, 232);
+    border: hidden;
+    text-align: center;
+    margin-left: 55px;
+    margin-bottom: 20px;
+     padding: 10px;
+     margin-top: 30px;
+    
+   } 
+  .sia{
+    
+    width: 250px;
+    height: 190px;
+   }    
+
+   .title{
+    margin-top: 30px;
+    width: 100%;
+   }
+   body{
+    background-color: rgb(248, 249, 249);
+    width: 100%;
+   }
